@@ -1,6 +1,6 @@
 # SettleMint Collaboration 🚀
 
-Welcome to the **SettleMint Collaboration** GitHub Organization! This is our hub for partnering with organizations like **SettleMint India** to build amazing solutions together. 🎉
+Welcome to the **SettleMint Collaboration** GitHub Organization! This is our hub for partnering with organizations to build amazing solutions together. 🎉
 
 ## How It Works
 1. **Create a Repository**:  
